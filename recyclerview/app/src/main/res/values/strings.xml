@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">교내 분실물 관리</string>
+    <string name="add_item">분실물/습득물 등록</string>
+    <string name="type_lost">분실물</string>
+    <string name="type_found">습득물</string>
+    <string name="status_open">보관 중</string>
+    <string name="status_completed">인계 완료</string>
+    <string name="written_by">작성자: %1$s</string>
+    <string name="written_by_me">작성자: %1$s · 내 글</string>
+</resources>

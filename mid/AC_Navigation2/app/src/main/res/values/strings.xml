@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">캠퍼스 시설 안내</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="action_close">닫기</string>
+    <string name="home_toolbar_title">캠퍼스 시설 안내</string>
+    <string name="facility_toolbar_title">시설 목록</string>
+    <string name="guide_toolbar_title">이용 안내</string>
+
+    <string name="nav_home">홈</string>
+    <string name="nav_facility">시설</string>
+    <string name="nav_guide">이용 안내</string>
+
+    <string name="home_welcome">우리 대학 캠퍼스에\n오신 것을 환영합니다</string>
+    <string name="home_description">학생들이 자주 이용하는 주요 시설의\n위치와 이용시간을 확인할 수 있습니다.</string>
+    <string name="main_facilities">주요 시설</string>
+    <string name="main_facility_list">• 중앙도서관\n• 학생식당\n• 컴퓨터실\n• 학생지원센터</string>
+    <string name="view_facilities">시설 목록 보기</string>
+    <string name="select_facility">안내받을 시설을 선택하세요.</string>
+
+    <string name="library">도서관</string>
+    <string name="cafeteria">학생식당</string>
+
+    <string name="facility_usage_guide">시설 이용 안내</string>
+    <string name="guide_body">1. 시설별 운영시간을 확인하세요.\n\n2. 공휴일에는 운영시간이 달라질 수 있습니다.\n\n3. 실습실은 수업 시간에 이용이 제한될 수 있습니다.\n\n4. 시설 이용 후에는 자리를 정리해 주세요.</string>
+    <string name="main_phone">대표전화</string>
+    <string name="phone_number">02-1234-5678</string>
+    <string name="call_school">학교에 전화하기</string>
+    <string name="open_school_website">학교 홈페이지 열기</string>
+
+    <string name="location">위치</string>
+    <string name="hours">이용시간</string>
+    <string name="facility_information">시설 안내</string>
+    <string name="back_to_list">목록으로 돌아가기</string>
+    <string name="back">뒤로가기</string>
+
+    <string name="app_logo">앱 로고</string>
+    <string name="header_subtitle">교내 시설을 편리하게 찾아보세요</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

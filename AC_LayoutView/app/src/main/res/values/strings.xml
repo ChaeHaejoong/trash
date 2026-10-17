@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AC_LayoutView</string>
+    <string name="title">운동 기록 작성</string>
+    <string name="sub_title1">운동 종류</string>
+    <string name="sub_title2">운동 시간</string>
+    <string name="sub_title3">운동 강도</string>
+    <string name="sub_title4">운동 메모</string>
+    <string name="sub_title5">완료 항목</string>
+    <string name="sub_title6">다음 목표</string>
+    <string name="check_waramup">준비운동 완료</string>
+    <string name="check_cooldown">정리운동 완료</string>
+    <string name="type_walking">걷기</string>
+    <string name="type_running">달리기</string>
+    <string name="type_cycling">자전거</string>
+    <string name="edit_hint1">운동 시간(분)</string>
+    <string name="edit_hint2">강도를 선택하세요.</string>
+    <string name="edit_hint3">운동 느낌, 장소, 페이스 등을 기록하세요.</string>
+    <string name="btn_ok">기록 확인 및 목표 설정</string>
+    <string name="btn_reset">입력 초기화</string>
+    <string name="msg1">운동기록 저장 완료1</string>
+    <string name="msg2">운동기록 저장 완료2</string>
+</resources>

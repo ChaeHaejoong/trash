@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type_filter_entries">
+        <item>전체 구분</item>
+        <item>분실물</item>
+        <item>습득물</item>
+    </string-array>
+    <string-array name="status_filter_entries">
+        <item>전체 상태</item>
+        <item>보관 중</item>
+        <item>인계 완료</item>
+    </string-array>
+    <string-array name="form_status_entries">
+        <item>보관 중</item>
+        <item>인계 완료</item>
+    </string-array>
+</resources>

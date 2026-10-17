@@ -1,0 +1,13 @@
+package com.hjchae.check_navigation_boilerplate_code.ui.home
+
+import androidx.lifecycle.LiveData
+import androidx.lifecycle.MutableLiveData
+import androidx.lifecycle.ViewModel
+
+class HomeViewModel : ViewModel() {
+
+    private val _text = MutableLiveData<String>().apply {
+        value = "This is home Fragment"
+    }
+    val text: LiveData<String> = _text
+}

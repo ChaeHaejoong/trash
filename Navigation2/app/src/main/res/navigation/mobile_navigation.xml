@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/homeFragment">
+    <fragment
+        android:id="@+id/facilityFragment"
+        android:name="com.hjchae.navigation2.FacilityFragment"
+        android:label="시설" >
+        <action
+            android:id="@+id/action_facilityFragment_to_facilityDetailFragment"
+            app:destination="@id/facilityDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/guideFragment"
+        android:name="com.hjchae.navigation2.GuideFragment"
+        android:label="이용 안내" />
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.hjchae.navigation2.HomeFragment"
+        android:label="홈" />
+    <fragment
+        android:id="@+id/schoolFragment"
+        android:name="com.hjchae.navigation2.SchoolFragment"
+        android:label="fragment_school"
+        tools:layout="@layout/fragment_school" />
+    <fragment
+        android:id="@+id/facilityDetailFragment"
+        android:name="com.hjchae.navigation2.FacilityDetailFragment"
+        android:label="시설 상세" />
+</navigation>
